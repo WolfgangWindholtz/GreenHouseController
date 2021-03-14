@@ -1,0 +1,87 @@
+Change Component Footprint: Designator=U1 Old Footprint=STM-LQFP64_L New Footprint=STM-LQFP64_L
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Added Component: Designator=P3(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=P3-1
+Added Pin To Net: NetName=NetR5_1 Pin=P3-2
+Added Pin To Net: NetName=NetR6_1 Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P3-4
+Change Net Name : Old Net Name=NetP?_1 New Net Name=NetP2_1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetP3_2
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetP3_3
+Added Member To Class: ClassName=MCU Member=Component C1 CAP_14pF_50V_0603
+Added Member To Class: ClassName=MCU Member=Component C2 50v
+Added Member To Class: ClassName=MCU Member=Component C3 CAP_1uF_16V_0805
+Added Member To Class: ClassName=MCU Member=Component C4 CAP_1uF_16V_0805
+Added Member To Class: ClassName=MCU Member=Component C5 CAP_1uF_16V_0805
+Added Member To Class: ClassName=MCU Member=Component C6 CAP_1uF_16V_0805
+Added Member To Class: ClassName=MCU Member=Component C7 CAP_1uF_16V_0805
+Added Member To Class: ClassName=MCU Member=Component C8 CAP_4.7uF_50V_1206
+Added Member To Class: ClassName=MCU Member=Component C9 CAP_0.1uF_16V_0603
+Added Member To Class: ClassName=MCU Member=Component C10 CAP_1uF_16V_0603
+Added Member To Class: ClassName=MCU Member=Component C11 CAP_0.1uF_16V_0603
+Added Member To Class: ClassName=MCU Member=Component C12 CAP_0.1uF_16V_0603
+Added Member To Class: ClassName=MCU Member=Component C13 CAP_0.1uF_16V_0603
+Added Member To Class: ClassName=MCU Member=Component C14 CAP_0.1uF_16V_0603
+Added Member To Class: ClassName=MCU Member=Component C15 CAP_4.7uF_16V_0603
+Added Member To Class: ClassName=MCU Member=Component C16 CAP_10nF_16V_0805
+Added Member To Class: ClassName=MCU Member=Component C17 CAP_1uF_16V_0805
+Added Member To Class: ClassName=PowerAndServo Member=Component C18 CAP_1uF_50V_0603
+Added Member To Class: ClassName=PowerAndServo Member=Component C19 CAP_1uF_50V_0603
+Added Member To Class: ClassName=MCU Member=Component D1 LED_GREEN
+Added Member To Class: ClassName=MCU Member=Component D2 LED_GREEN
+Added Member To Class: ClassName=MCU Member=Component D3 LED_GREEN
+Added Member To Class: ClassName=MCU Member=Component D4 LED_GREEN
+Added Member To Class: ClassName=peripherals Member=Component D5 Diode 1N4007
+Added Member To Class: ClassName=peripherals Member=Component D6 Diode 1N4007
+Added Member To Class: ClassName=peripherals Member=Component D7 Diode 1N4007
+Added Member To Class: ClassName=PowerAndServo Member=Component D8 TVS_DIODE_UNIDIR_5V
+Added Member To Class: ClassName=PowerAndServo Member=Component D9 DIO_LED_G
+Added Member To Class: ClassName=PowerAndServo Member=Component J1 CON_2M_TERM
+Added Member To Class: ClassName=peripherals Member=Component J 6PCV-06-006
+Added Member To Class: ClassName=peripherals Member=Component K1 G5LE-14_DC5
+Added Member To Class: ClassName=peripherals Member=Component K2 G5LE-14_DC5
+Added Member To Class: ClassName=peripherals Member=Component K3 G5LE-14_DC5
+Added Member To Class: ClassName=MCU Member=Component P1 HEADER 4X2
+Added Member To Class: ClassName=PowerAndServo Member=Component P2 Header 3
+Added Member To Class: ClassName=PowerAndServo Member=Component P3 Header 4
+Added Member To Class: ClassName=peripherals Member=Component Q1 MMBT3904-TP
+Added Member To Class: ClassName=peripherals Member=Component Q2 MMBT3904-TP
+Added Member To Class: ClassName=peripherals Member=Component Q3 MMBT3904-TP
+Added Member To Class: ClassName=MCU Member=Component R1 RES_120O_0603_5%
+Added Member To Class: ClassName=MCU Member=Component R2 RES_120O_0603_5%
+Added Member To Class: ClassName=MCU Member=Component R3 RES_120O_0603_5%
+Added Member To Class: ClassName=MCU Member=Component R4 RES_120O_0603_5%
+Added Member To Class: ClassName=MCU Member=Component R5 RES_1kO_0603_5%
+Added Member To Class: ClassName=MCU Member=Component R6 RES_1kO_0603_5%
+Added Member To Class: ClassName=MCU Member=Component R8 RES_10kO_0603_5%
+Added Member To Class: ClassName=MCU Member=Component R9 RES_10kO_0603_5%
+Added Member To Class: ClassName=MCU Member=Component R10 RES_10kO_0603_5%
+Added Member To Class: ClassName=MCU Member=Component R11 RES_10kO_0603_5%
+Added Member To Class: ClassName=MCU Member=Component R12 RES_10kO_0603_5%
+Added Member To Class: ClassName=MCU Member=Component R13 RES_10kO_0603_5%
+Added Member To Class: ClassName=peripherals Member=Component R14 Res1
+Added Member To Class: ClassName=peripherals Member=Component R15 Res1
+Added Member To Class: ClassName=peripherals Member=Component R16 Res1
+Added Member To Class: ClassName=PowerAndServo Member=Component R17 RES_120O_0603_5%_HP
+Added Member To Class: ClassName=MCU Member=Component S1 SW_TACTILE
+Added Member To Class: ClassName=MCU Member=Component S2 SW_TACTILE
+Added Member To Class: ClassName=MCU Member=Component S3 SW_TACTILE
+Added Member To Class: ClassName=MCU Member=Component S4 SW_TACTILE
+Added Member To Class: ClassName=MCU Member=Component S5 SW_TACTILE
+Added Member To Class: ClassName=MCU Member=Component S6 SW_TACTILE
+Added Member To Class: ClassName=MCU Member=Component TP1 TESTPOINT_LOOP
+Added Member To Class: ClassName=MCU Member=Component TP2 TESTPOINT_LOOP
+Added Member To Class: ClassName=PowerAndServo Member=Component TP3 TESTPOINT_SMD_LOOP
+Added Member To Class: ClassName=PowerAndServo Member=Component TP4 TESTPOINT_SMD_LOOP
+Added Member To Class: ClassName=PowerAndServo Member=Component TP5 TESTPOINT_SMD_LOOP
+Added Member To Class: ClassName=MCU Member=Component U1 STM32F446RET6
+Added Member To Class: ClassName=PowerAndServo Member=Component U2 LDO_3.3V_600mA
+Added Member To Class: ClassName=MCU Member=Component UART_RX1 TESTPOINT_LOOP
+Added Member To Class: ClassName=MCU Member=Component UART_TX1 TESTPOINT_LOOP
+Added Member To Class: ClassName=MCU Member=Component Y1 CRYSTAL_25MHZ
+Added Room: Name=MCU
+Added Room: Name=peripherals
+Added Room: Name=PowerAndServo
