@@ -1,0 +1,9 @@
+Replace Part C18 CAP_1uF_50V_0603 in C:\Users\wwind\altium_projects\GreenHouseController\PCB\PCB_Project\PowerAndServo.SchDoc with CAP_1uF_50V_0603 from UWRT_Schematic_Library_2020.SchLib
+Replace Part C19 CAP_1uF_50V_0603 in C:\Users\wwind\altium_projects\GreenHouseController\PCB\PCB_Project\PowerAndServo.SchDoc with CAP_1uF_50V_0603 from UWRT_Schematic_Library_2020.SchLib
+Replace Part D8 TVS_DIODE_UNIDIR_5V in C:\Users\wwind\altium_projects\GreenHouseController\PCB\PCB_Project\PowerAndServo.SchDoc with TVS_DIODE_UNIDIR_5V from UWRT_Schematic_Library_2020.SchLib
+Replace Part P? Header 3 in C:\Users\wwind\altium_projects\GreenHouseController\PCB\PCB_Project\PowerAndServo.SchDoc with Header 3 from Miscellaneous Connectors.IntLib
+Replace Part R17 RES_120O_0603_5%_HP in C:\Users\wwind\altium_projects\GreenHouseController\PCB\PCB_Project\PowerAndServo.SchDoc with RES_120O_0603_5%_HP from UWRT_Schematic_Library_2020.SchLib
+Replace Part TP3 TESTPOINT_SMD_LOOP in C:\Users\wwind\altium_projects\GreenHouseController\PCB\PCB_Project\PowerAndServo.SchDoc with TESTPOINT_SMD_LOOP from UWRT_Schematic_Library_2020.SchLib
+Replace Part TP4 TESTPOINT_SMD_LOOP in C:\Users\wwind\altium_projects\GreenHouseController\PCB\PCB_Project\PowerAndServo.SchDoc with TESTPOINT_SMD_LOOP from UWRT_Schematic_Library_2020.SchLib
+Replace Part TP5 TESTPOINT_SMD_LOOP in C:\Users\wwind\altium_projects\GreenHouseController\PCB\PCB_Project\PowerAndServo.SchDoc with TESTPOINT_SMD_LOOP from UWRT_Schematic_Library_2020.SchLib
+Replace Part U2 LDO_3.3V_600mA in C:\Users\wwind\altium_projects\GreenHouseController\PCB\PCB_Project\PowerAndServo.SchDoc with LDO_3.3V_600mA from UWRT_Schematic_Library_2020.SchLib
